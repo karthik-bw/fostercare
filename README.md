@@ -1,4 +1,4 @@
-# Foster Care Case Management System
+# Foster Care Management System
 
 A comprehensive foster care case management system that leverages intelligent technology to streamline administrative workflows and support child welfare professionals.
 
